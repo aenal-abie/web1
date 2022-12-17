@@ -1,0 +1,41 @@
+a {
+    color: red;
+}
+
+h2 {
+    color: aqua;
+    font-size: 10pt;
+}
+
+b {
+    font-size: 8pt;
+    font-style: italic;
+    background-color: yellow;
+}
+
+body {
+    background-color: red;
+}
+
+table {
+    border: 1px;
+    border-style: solid;
+    border-collapse: collapse;
+}
+
+table td {
+    border: 1px;
+    border-style: solid;
+}
+
+.biru {
+    color: blue;
+}
+
+.tebal_sekali {
+    font-size: 100pt;
+}
+
+#hijau {
+    /* color: green; */
+}
