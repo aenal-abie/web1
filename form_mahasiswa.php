@@ -1,4 +1,6 @@
 <?php
+session_start();
+echo $_SESSION['koneksi'];
 $judul = "Form Mahasiswa";
 include("atas.php");
 ?>
